@@ -1,0 +1,21 @@
+# Dependency directories
+/node_modules
+
+# Built files
+/dist
+
+# Test result directories
+/coverage
+
+# Environment files
+.env
+
+# Editor directories and files
+/.vscode
+/.idea
+*.sublime-*
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
